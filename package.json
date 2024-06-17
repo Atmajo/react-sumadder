@@ -1,0 +1,22 @@
+{
+  "name": "react-sumadder",
+  "version": "1.0.2",
+  "description": "A simple react sum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atmajo/react-sumadder.git"
+  },
+  "keywords": [
+    "Sum"
+  ],
+  "author": "Atmajo Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atmajo/react-sumadder/issues"
+  },
+  "homepage": "https://github.com/Atmajo/react-sumadder#readme"
+}
